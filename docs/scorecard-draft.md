@@ -12,6 +12,7 @@ Score Calculation
 
 [Put here the criteria for calculating the score. E.g. if at least 90% of your papers are freely available online: +2 points...]
 
+
 ### Papers
 
 Only published papers of the last five years count here.
@@ -24,3 +25,15 @@ Only published papers of the last five years count here.
 - At least 60% of the papers are freely available online as full text +1
 - At least 30% of the papers are freely available online as full text +1
 - All first-author papers are freely available online as full text +1
+- ...
+
+
+### Datasets
+
+...
+
+
+### Lab Notes
+
+...
+

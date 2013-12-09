@@ -6,6 +6,13 @@ This repository contains materials of the Open Scholar Foundation.
 See http://www.openscholarfoundation.org/
 
 
+Wiki
+----
+
+Join the discussion on the Open Scholar approach here:
+https://github.com/tkuhn/openscholar/wiki
+
+
 About
 -----
 
@@ -15,7 +22,7 @@ share their digital research artifacts, including manuscripts, data,
 protocols, source code, and lab notes.
 
 The proposal of an "Open Scholar Foundation" was one of the winners of the 1K
-challenge of the Beyond the PDF conference: http://www.force11.org/node/4358
+challenge of the Beyond the PDF conference: http://www.force11.org/node/4358.
 This was the task of the challenge:
 
 > What would you do with 1K that would significantly advance scholarly
